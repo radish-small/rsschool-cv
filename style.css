@@ -1,0 +1,52 @@
+body {
+    margin: 0 auto;
+    width: 1024px;
+    font-family: "Arial", sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 36px;
+    line-height: normal;
+  }
+  
+  h2 {
+    font-size: 20px;
+    line-height: normal;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #0099ef;  
+  }
+  
+  .avatar {
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  
+  .contacts {
+    display: inline-block;
+    width: 20rem;
+    border: 5px solid #e8e8e8;
+    text-align: left;
+  }
+  
+  .skills dd {
+    display: inline-block;
+    width: 40rem;
+    margin: 10px;
+    margin-bottom: 10px;
+    background-color: #e8e8e8;
+  }
+  
+  .skills-level {
+    font-size: 12px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #4470c4;
+  }
+  
+  footer {
+    font-size: 15px;
+  
